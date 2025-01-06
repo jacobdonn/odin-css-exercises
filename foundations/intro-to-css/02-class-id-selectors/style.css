@@ -1,0 +1,19 @@
+.normal-para, big {
+    background-color: #ff9c9b;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#big-blue {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#grn-bckgrnd-bold {
+    background-color: rgb(98, 255, 93);
+    font-size: 24px;
+    font-weight: bold;
+}
